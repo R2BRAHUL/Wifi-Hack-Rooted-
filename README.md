@@ -9,11 +9,7 @@ This tool is a structured WPS PIN generation framework built for educational and
 
 <!-- ================= CYBER7F-BD DARK HACKER FRAMEWORK ================= -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/logo.png"
-       width="180"
-       alt="Cyber7F-BD Logo"
-       class="glow blink">
+
 </p>
 
 <h1 align="center" class="title">CYBER7F-BD</h1>
