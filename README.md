@@ -2,6 +2,38 @@
 This tool is a structured WPS PIN generation framework built for educational and ethical Wi-Fi security research. It generates possible WPS PINs using MAC-based algorithms and known static methods for different router brands. The framework is clean, modular, and suitable for learning, testing, and penetration-testing labs only.
 
 
+<p align="center">
+  <img src="logo.png" width="180" class="glow blink">
+</p>
+
+<h2 align="center" class="author">
+Cyber7F-BD Team<br>
+Ethical Hacking • Security Research • Education
+</h2>
+
+<style>
+body { background-color: #0b0f14; }
+
+.author {
+  color: #00ffaa;
+  font-family: monospace;
+  font-size: 13px;
+}
+
+.glow {
+  filter: drop-shadow(0 0 12px #00ffcc);
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+
+.blink {
+  animation: blink 1.3s infinite;
+}
+</style>
 
 <!-- ================= CYBER7F-BD DARK HACKER FRAMEWORK ================= -->
 
