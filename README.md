@@ -80,6 +80,9 @@ $ sudo python birihack.py --help
 pkg update && pkg upgrade
 pkg install python git tsu
 git clone https://github.com/R2BRAHUL/Wifi-Hack-Rooted-.git
+cd Wifi-Hack-Rooted-
+chmod +x Cyber7F-BD.py
+python Cyber7F-BD.py
 ```
 
 <h1 align="center" class="title">Uses:</h1>
