@@ -68,6 +68,7 @@ Ethical Hacking • Security Research • Education
 pkg update && pkg upgrade
 pkg install python git tsu iw wpa-supplicant pixiewps -y
 pip install -r requirements.txt
+git clone https://github.com/R2BRAHUL/Wifi-Hack-Rooted-.git
 
 
 
