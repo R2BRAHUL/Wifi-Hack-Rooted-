@@ -58,6 +58,8 @@ Author
 Cyber7F-BD Team
 Ethical Hacking • Security Research • Education 
 
+“Before running the tool, make sure wpa_supplicant is installed on your system”
+
 ---
 
 ## 🧰 Requirements (Termux)
