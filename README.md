@@ -45,7 +45,7 @@ Pixie-Dust based analysis and controlled penetration testing workflows.
 </ul>
 
 Installation on windows/Linux/mac-os/Termux
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/R2BRAHUL/Wifi-Hack-Rooted-.git
 cd YOUR_REPO_NAME
 python main.py
 
