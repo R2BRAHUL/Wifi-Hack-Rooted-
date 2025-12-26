@@ -1,0 +1,5 @@
+# Update & install core dependencies
+pkg update -y && pkg upgrade -y
+pkg install python git clang make wget curl nano -y
+pkg install iw iproute2 grep sed -y
+pkg install python-pip -y
