@@ -62,7 +62,7 @@ Ethical Hacking • Security Research • Education
 
 ---
 
-## 🧰 Requirements (Termux)
+## 🧰 Requirements (Linux, Ubuntu, Windows,)
 
 ```bash
 pkg update && pkg upgrade
@@ -71,6 +71,9 @@ pip install -r requirements.txt
 git clone https://github.com/R2BRAHUL/Wifi-Hack-Rooted-.git
 
 
+'''
+Termux Installation:
 
-
-
+pkg update && pkg upgrade
+pkg install python git tsu
+git clone https://github.com/R2BRAHUL/Wifi-Hack-Rooted-.git
