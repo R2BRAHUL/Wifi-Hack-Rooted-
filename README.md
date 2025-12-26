@@ -75,6 +75,7 @@ $ chmod +x birihack.py
 $ sudo python birihack.py --help
 ```
 <h1 align="center" class="title">Termux Installation:</h1>
+
 ```bash
 pkg update && pkg upgrade
 pkg install python git tsu
