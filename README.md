@@ -12,7 +12,7 @@ This tool is a structured WPS PIN generation framework built for educational and
 
 </p>
 
-<h1 align="center" class="title">CYBER7F-BD</h1>
+<h1 align="center" class="title">Hack Everything</h1>
 
 <p align="center" class="subtitle">
   ⚡ Ethical Hacking • Wi-Fi Security • Research Framework ⚡
@@ -50,12 +50,11 @@ cd Wifi-Hack-Rooted-
 python Cyber7F-BD.py
 
 
-
-⚠️ Legal Disclaimer
+<h1 align="center" class="title">⚠️ Legal Disclaimer</h1>
 This tool is created for educational and authorized security testing only. The developer is not responsible for any misuse or illegal activities. Use it only on networks you own or have explicit permission to test.
 
 
-Author
+<h1 align="center" class="title">Author</h1>
 �
 Cyber7F-BD Team
 Ethical Hacking • Security Research • Education 
@@ -75,21 +74,18 @@ $ cd Wifi_Hack
 $ chmod +x birihack.py
 $ sudo python birihack.py --help
 ```
-
-
+<h1 align="center" class="title">Termux Installation:</h1>
 ```bash
-Termux Installation:
-
 pkg update && pkg upgrade
 pkg install python git tsu
 git clone https://github.com/R2BRAHUL/Wifi-Hack-Rooted-.git
 ```
 
-Uses:
+<h1 align="center" class="title">Uses:</h1>
 
 #### Example : `sudo python Cyber7F-BD.py -i wlan0 -K`
 
-#### Note: 
+<h1 align="center" class="title">#### Note:</h1> 
 **First turn off your Wifi.**
 - Show avaliable networks and start Pixie Dust attack on a specified network.
 - `sudo python Cyber7F-BD.py -i wlan0 -K`
@@ -97,6 +93,6 @@ Uses:
 `sudo python Cyber7F-BD.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
 - Launch online WPS bruteforce with the specified first half of the PIN:
 - `sudo python Cyber7F-BD.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
-### Troubleshooting
+<h1 align="center" class="title">### Troubleshooting</h1>
 **"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
 
